@@ -1,6 +1,6 @@
 {
   "name": "@sengac/tree-sitter-c-sharp",
-  "version": "0.25.14",
+  "version": "0.25.15",
   "description": "C# grammar for tree-sitter",
   "repository": "https://github.com/sengac/tree-sitter-c-sharp",
   "license": "MIT",
@@ -64,5 +64,6 @@
   },
   "publishConfig": {
     "access": "public"
-  }
+  },
+  "gypfile": false
 }
